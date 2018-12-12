@@ -1,0 +1,14 @@
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\PageObjectModel.deps.json
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\PageObjectModel.runtimeconfig.json
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\PageObjectModel.runtimeconfig.dev.json
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\PageObjectModel.dll
+E:\VS 2017\POM\PageObjectModel\POM\bin\Debug\netcoreapp2.1\PageObjectModel.pdb
+E:\VS 2017\POM\PageObjectModel\POM\obj\Debug\netcoreapp2.1\PageObjectModel.csprojAssemblyReference.cache
+E:\VS 2017\POM\PageObjectModel\POM\obj\Debug\netcoreapp2.1\PageObjectModel.csproj.CoreCompileInputs.cache
+E:\VS 2017\POM\PageObjectModel\POM\obj\Debug\netcoreapp2.1\PageObjectModel.AssemblyInfoInputs.cache
+E:\VS 2017\POM\PageObjectModel\POM\obj\Debug\netcoreapp2.1\PageObjectModel.AssemblyInfo.cs
+E:\VS 2017\POM\PageObjectModel\POM\obj\Debug\netcoreapp2.1\PageObjectModel.dll
+E:\VS 2017\POM\PageObjectModel\POM\obj\Debug\netcoreapp2.1\PageObjectModel.pdb
